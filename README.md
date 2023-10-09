@@ -17,5 +17,5 @@
 3. Инструменты для визуализации данных: Tableau, LookerStudio
 4. Прочее - Shipyard, BigQuery, Метрика, Google Аналитика
 
-## Your projects that you're proud of
+## Мои проекты
 
